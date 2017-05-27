@@ -1,0 +1,53 @@
+#BRONZY
+import time
+while True:
+    choice=input("Welcome to Bronzy, which character do you choose; Bronzy, Christian, Stephen, Oisin, Conor")
+    time.sleep(3)
+
+    if choice == "Bronzy":
+        print ("you have picked bronzy the guy that fails at every game")
+        time.sleep(3)
+        break
+    
+    elif choice == "Stephen":
+        print ("the guy who can get any girl he wants")
+        time.sleep(3)
+        break
+        
+    elif choice == "Oisin":
+        print ("you have picked warbird the guy who rages at every game")
+        time.sleep(3)
+        break
+    
+    elif choice == "Christian":
+        print ("the guy who always makes you rage")
+        time.sleep(3)
+        break
+    
+    elif choice =="Conor":
+        print ("you have picked the guy who will always make you laugh")
+        time.sleep(3)
+        break
+
+    else:
+        print ("wow your a real asshole")
+
+print  ("ohhhhhhhhhhhhhhhhhhhhhh noooooooooooooooooooooooo")
+import time
+while True:
+    choice=input("You can go left or right, left is Bronzy HQ and right a bank you can rob do you choose 'left' or 'right'")
+    time.sleep(2)
+
+    if choice == "left":
+        print ("You go to the door of Bronzy HQ and swipe your keycard and walk in")
+        time.sleep(2)
+        break
+
+    elif choice == "right":
+        print ("you walk into the bank with a gun and get tackled by security instanty, you got caught say goodbye to BRONZY")
+        time.sleep(2)
+
+
+    
+    
+    
